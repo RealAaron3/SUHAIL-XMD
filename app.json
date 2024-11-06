@@ -11,13 +11,13 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "D3FAULT",
       "required" :true
     },   
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -44,7 +44,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
-      "value": "3"
+      "value": "5"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
